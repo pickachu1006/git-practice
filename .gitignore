@@ -1,0 +1,5 @@
+*.html
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.mapcd
